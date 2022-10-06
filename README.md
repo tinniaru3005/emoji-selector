@@ -1,4 +1,5 @@
 # 😎 Emoji-selector
+I have built out a simple chat-app application. I have created an easy-to-use emoji selector for this website. 
 
 ## 🚀 APIs used
 - [Open Emoji API](https://emoji-api.com/)
