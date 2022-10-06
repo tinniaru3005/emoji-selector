@@ -7,7 +7,8 @@
 ![1](https://user-images.githubusercontent.com/62856848/194417136-2d8889f7-d08c-4bf9-84dd-fe6251912965.png)
 - Go ahead and put in a valid email address. You'll then receive your API key.
 ![2](https://user-images.githubusercontent.com/62856848/194417201-8d7b46d5-c273-4503-b66a-db3b94e4519c.png)
-- Do not copy my key. Be sure to create your own by providing your email address. Once you have your API key, scroll down to "Documentation" and you'll notice all the different API endpoints. The only one we'll be using for this project is the first one titled "List all emojis". You should notice your API key at the end of the link for the API after "?access_key=". 
+- Do not copy my key. Be sure to create your own by providing your email address. Once you have your API key, scroll down to "Documentation" and you'll notice all the different API endpoints. The only one we'll be using for this project is the first one titled "List all emojis". 
+- You should copy your API key at the end of the link for the API after "?access_key=". 
 
 
 ## 📹 Video
