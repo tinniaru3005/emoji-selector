@@ -10,5 +10,5 @@
 - Do not copy my key. Be sure to create your own by providing your email address. Once you have your API key, scroll down to "Documentation" and you'll notice all the different API endpoints. The only one we'll be using for this project is the first one titled "List all emojis". 
 - You should copy your API key at the end of the link for the API after "?access_key=". 
 
-
 ## 📹 Video
+https://user-images.githubusercontent.com/62856848/194420566-60f0077e-6c79-486a-a66b-fce1593c0e17.mp4
