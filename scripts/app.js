@@ -5,7 +5,7 @@ emojiSelectorIcon.addEventListener('click', () => {
     emojiSelector.classList.toggle('active');
 });
 
-fetch('https://emoji-api.com/emojis?access_key=3b6d752af5327473dba888db62421217f08b035a')
+fetch('https://emoji-api.com/emojis?access_key=YOUR_API_KEY')
    .then(res => res.json())
    .then(data => loadEmoji(data))
 
